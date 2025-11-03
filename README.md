@@ -84,7 +84,7 @@
               <i class="fa-solid fa-diagram-project me-1"></i> Projecte Cerca IA vs Google Acadèmic
             </a>
             <ul class="dropdown-menu" aria-labelledby="proj1Dropdown">
-              <li><a class="dropdown-item" href="https://emoreno12.github.io/cerca"><i class="fa-solid fa-code me-1"></i>Comparem préssecs</a></li>
+              <li><a class="dropdown-item" href="https://amalikr.github.io/cerca"><i class="fa-solid fa-code me-1"></i>Comparem pera</a></li>
               <li><a class="dropdown-item" href="#"><i class="fa-solid fa-database me-1"></i> Projecte 1.2</a></li>
             </ul>
           </li>
@@ -94,9 +94,9 @@
               <i class="fa-solid fa-folder-open me-1"></i> 22 dies en 22 peus
             </a>
             <ul class="dropdown-menu" aria-labelledby="proj2Dropdown">
-              <li><a class="dropdown-item" href="https://emoreno12.github.io/introduccio"><i class="fa-solid fa-chart-line me-1"></i> Introducció al projecte</a></li>
-              <li><a class="dropdown-item" href="https://emoreno12.github.io/vectors"><i class="fa-solid fa-cogs me-1"></i> Calculem rumbs amb vectors</a></li>
-            <li><a class="dropdown-item" href="https://emoreno12.github.io/distancies"><i class="fa-solid fa-cogs me-1"></i> Calculem distàncies amb GPS</a></li>
+              <li><a class="dropdown-item" href="https://amalikr.github.io/introduccio"><i class="fa-solid fa-chart-line me-1"></i> Introducció al projecte</a></li>
+              <li><a class="dropdown-item" href="https://amalikr.github.io/vectors"><i class="fa-solid fa-cogs me-1"></i> Calculem rumbs amb vectors</a></li>
+            <li><a class="dropdown-item" href="https://amalikr.github.io/distancies"><i class="fa-solid fa-cogs me-1"></i> Calculem distàncies amb GPS</a></li>
             </ul>
           </li>
         </ul>
